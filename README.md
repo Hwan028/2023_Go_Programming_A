@@ -1,1 +1,1 @@
-# 2023_Go_Programming_A
+# This repository contains codes and assignments used in Go programming classes in 2023.
